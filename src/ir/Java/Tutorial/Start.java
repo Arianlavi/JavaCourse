@@ -9,6 +9,8 @@ public class Start {
         long d = 10000;
         float e = 22.4f;
         double f = 34.2;
+        string h = "Test App";
         System.out.println(a+b+c+d+e+f);
+        System.out.println(h);
     }
 }
